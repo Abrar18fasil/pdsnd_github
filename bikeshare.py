@@ -35,7 +35,7 @@ def load_data(city, month, day):
 
 
 def display_data(df):
-    """Displays 5 rows of data at a time upon user request."""
+    """this method  Displays 5 rows of data at a time upon user request."""
     start_loc = 0
     while True:
         # Ask the user if they want to see data
