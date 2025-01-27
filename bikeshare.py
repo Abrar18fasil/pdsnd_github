@@ -50,7 +50,7 @@ def display_data(df):
 
 
 def time_stats(df):
-    """Displays statistics on the most frequent times of travel."""
+    """ this methode for time stats """
     start_time = time.time()
 
     # Most common month
